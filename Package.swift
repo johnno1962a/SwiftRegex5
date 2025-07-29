@@ -6,7 +6,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftRegex",
+    name: "SwiftRegex5",
     platforms: [.macOS("10.10"), .iOS("10.0"), .tvOS("10.0")],
     products: [
         .library(name: "SwiftRegex", targets: ["SwiftRegex"]),
